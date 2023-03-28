@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Franco Romero</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A full-stack developer from Argentina</h3>
 
 - 🌱 I’m currently learning **React, Redux and SASS**
 

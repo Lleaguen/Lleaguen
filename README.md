@@ -5,9 +5,8 @@
 
 - 👯 I’m looking to collaborate on [My Manga Store](https://mymangastore.netlify.app/)
 
-- 📫 How to reach me **lleaguen99@gmail.com**
+- 📫 How to reach me **tbbdonline@gmail.com**
 
-- ⚡ Fun fact **t II am passionate about video games, technology, comics, manga and play the guitar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -8,7 +8,7 @@ Building scalable, real-world web applications
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francoromero" target="_blank">
+  <a href="https://www.linkedin.com/in/franco-romero-945b66226" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Franco%20Romero-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Tbbdonline@gmail.com">
